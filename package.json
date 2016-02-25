@@ -1,0 +1,13 @@
+{
+  "name": "SRP_Demo",
+  "namelower": "SRP_Demo",
+  "version": "0.1.0",
+  "readme": "README.md",
+  "devDependencies": {},
+  "scripts": {
+    "postinstall": "bower install"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.2.38"
+  }
+}
